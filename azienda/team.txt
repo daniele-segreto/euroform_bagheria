@@ -1,0 +1,40 @@
+DRIVE TEAM (cacciatore, mineo, gambino, risica)
+    => 
+    -1 comunicazione (cacciatore)
+    -1 scomposto (mineo)
+    -1 scomposto (notaro)
+        TOT = -3
+
+FLIPENDO LAB (*aiello g., aiello c., lo verso)
+    =>
+    +1 pazienda (lo verso)
+    +1 iniziativa (lo verso)
+    -2 comunicazione (notaro)
+    +2 pulizia (aiello g., lo verso)
+    -1 interferenza mouse (lo verso)
+        TOT. 1
+
+MATRIX TECH (calò, branca, sciortino, notaro)
+    =>
+    -1 comunicazione (branca)
+    +1 pulizia (branca)
+    -1 disattenzione (calò)
+    
+        TOT. 0
+
+SCADUTO FREELANCE (scaduto)
+    => 
+    -1 comunicazione
+        TOT. -1
+
+----------------------------------------------------------------
+
+DIRETTIVE:
+Realizzare un menù interattivo per un sito web di abbigliamento.
+Il menù deve contenere le seguenti voci:
+- T-Shirt (DRIVE T-TEAM)
+- Jeans (FLIPENDO LAB)
+- Scarpe (MATRIX TECH)
+- Cappelli (SCADUTO FREELANCE)
+
+Responsabile: AIELLO G.
